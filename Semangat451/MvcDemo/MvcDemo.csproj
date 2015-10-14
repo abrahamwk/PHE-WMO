@@ -208,6 +208,7 @@
     </Compile>
     <Compile Include="DataProviderField.aspx.cs">
       <DependentUpon>DataProviderField.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="DataProviderReal.aspx.cs">
       <DependentUpon>DataProviderReal.aspx</DependentUpon>
